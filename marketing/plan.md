@@ -9,12 +9,12 @@
 ## 0. Positioning (one line everywhere)
 
 > **Find your colour season in 30 seconds. Free, and your photo never leaves your phone.**
-> Made by a painter, not a filter.
+> Shows its working, not just a label.
 
 Three things set us apart (all true, all checkable):
 1. **Private:** the scan runs in the browser (CONTRACT: "Photo never leaves the device").
 2. **Shows its working:** 4 measurements + runner-up season + confidence, not just a label.
-3. **Artist-made:** the founder is a visual artist who explains colour the way painters do.
+3. **Explains itself:** a runner-up season and a confidence score, so people can judge the result.
 
 ---
 
@@ -26,14 +26,14 @@ Three things set us apart (all true, all checkable):
 | **Instagram** | Carousels + Reels, the saves and DM-share loop | same order |
 | **Pinterest (Business)** | Search engine for "color season quiz"; pins keep earning for months | same order |
 | **YouTube Shorts** | Free repurposing of the videos | `@seasoncard` or `@seasoncardapp` |
-| **Reddit** | Founder's **personal** account, not a brand account | founder's own name, e.g. `u/<name>_paints` |
+| **Reddit** | Founder's **personal** account, not a brand account | founder's own name, e.g. `u/<name>` |
 
 ⚠️ **None of these handles has been checked.** Check each by hand on sign-up. Use the same handle everywhere if possible.
 Also claim the website on Pinterest (needs a meta tag or DNS record; ask the Web agent for the tag).
 
 ### Bio lines (pick one per platform, 80–150 chars)
-- TikTok / IG: `Free AI colour-season scan 🎨 Your photo stays on your phone. Made by a painter. ↓ get your Season Card`
-- Pinterest: `Seasonal colour analysis, explained by an artist. Palettes for all 12 seasons + a free private scan.`
+- TikTok / IG: `Free AI colour-season scan 🎨 Your photo stays on your phone. Shows its working. ↓ get your Season Card`
+- Pinterest: `Seasonal colour analysis, explained simply. Palettes for all 12 seasons + a free private scan.`
 - Short: `Your colour season, measured. Free scan, photo stays on your phone.`
 
 ### Link in bio
@@ -131,7 +131,6 @@ never use second accounts → [Reddit spam policy](https://support.reddithelp.co
 > Those two sit right next to each other. Both are soft and medium. The difference is temperature.
 > Quick daylight test: hold something camel and something dusty rose under your chin by a window.
 > If camel makes your skin look even and the rose looks a bit chalky, lean Soft Autumn. The reverse, lean Soft Summer.
-> (I'm a painter. This is the same warm/cool test we use when mixing skin tones.)
 
 **Someone says "black makes me look tired"**
 > In seasonal colour theory, pure black mostly belongs to the Winter palettes because it's very deep and very high-contrast.
@@ -145,7 +144,7 @@ never use second accounts → [Reddit spam policy](https://support.reddithelp.co
 
 ### Example post, only where self-promo is allowed (e.g. r/SideProject)
 
-> **Title:** I'm a painter and built a colour-season scanner that runs entirely in your browser. Feedback wanted
+> **Title:** I built a colour-season scanner that runs entirely in your browser. Feedback wanted
 >
 > Disclosure: this is my product.
 >
@@ -189,20 +188,20 @@ Run from the brand's email and DMs by the founder. **An idea to test, not a cont
 ### DM script (short)
 > Hi [name]! I loved your [specific post, e.g. "find her best pink" video]. The way you explained [detail] was really clear.
 >
-> I'm [founder], a painter. I just launched Season Card, a free colour-season scan that runs in the browser
+> I'm [founder]. I just launched Season Card, a free colour-season scan that runs in the browser
 > (the photo never leaves your phone). Would you like the full report + capsule wardrobe for free to try it?
 >
 > No obligation to post. If you like it and want to share, I'd give you an affiliate link (30% of sales).
 > Any post would need an #ad / affiliate tag. Honest opinions totally welcome, even "it got me wrong".
 
 ### Email version
-> **Subject:** Free colour report for you (from a painter, no strings)
+> **Subject:** Free colour report for you (no strings)
 >
 > Hi [name],
 >
 > I've been watching your colour content, especially [specific post], and [one genuine sentence].
 >
-> I'm [founder], a visual artist. I built Season Card: a free AI colour-season scan that runs entirely in the browser.
+> I'm [founder]. I built Season Card: a free AI colour-season scan that runs entirely in the browser.
 > It shows undertone, depth, contrast and chroma, plus a runner-up season, so it explains itself.
 >
 > I'd love to give you the Full Report and Capsule Wardrobe for free. If you like it and want to share, I'll set up an
@@ -278,7 +277,7 @@ Details so it can't be fudged:
 
 1. **Create accounts** (phone/email verification) and check handles. Turn on 2FA
 2. **Read each community's rules** and fill in the ⚠️ UNVERIFIED rows above
-3. **Make the visuals.** Illustrations and swatch slides (the artist's skill is the brand)
+3. **Approve the visuals.** Swatch and illustration slides (rendered with marketing/render)
 4. **Voice and hands** for the 3 videos (face optional; the founder's own choice)
 5. **Post and reply** from the accounts. Reddit participation must be personal and human
 6. **Send creator messages** from the brand email/DMs, and pay affiliates via PayPal

@@ -1,5 +1,13 @@
 # Growth log
 
+## 2026-10-01
+- **Correction:** the founder is not a painter. Earlier plans and posts said he was. That was false.
+  - Removed the "Painter tip… how I'd mix" line from post 3's scheduled caption in Metricool (goes out tonight, 19:00 ET).
+  - Post 1 (already published 29 Sep) says "I'm a painter" in the caption and "A painter calls it…" on slide 6.
+    **Saman needs to edit or delete it in the TikTok app.** It can't be changed through Metricool after publishing.
+  - `social/story-launch.jpg` says "made by a painter" in the image. Don't post it until it's re-rendered (story.mjs is fixed).
+  - Removed the painter positioning from plan.md, posts.md, research.md and the renderer, and added a rule to rules.md.
+
 ## 2026-09-30
 - **Published:** post 1 ("Your colour season is 4 measurements", TikTok photo carousel, 29 Sep 19:00 ET). Post 2 goes out tonight.
 - **Metrics:** Metricool's TikTok analytics don't show post 1 yet (under 24h old, still syncing). The only TikTok item in analytics is an older 21 Sep video on @nazarbanai: 672 views, 0 likes/comments/shares, 98% For You traffic. No Season Card post data yet, so no best performer.

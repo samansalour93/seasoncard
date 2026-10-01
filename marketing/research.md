@@ -39,7 +39,7 @@ Compiled 2026-09-29. Every number has a source link.
 - **Competitor note:** e.l.f. runs a free branded "color e.l.f.nalysis" tool with shoppable Pinterest boards
   (same source). The App Store has many "Color Analysis AI" apps, e.g.
   [one](https://apps.apple.com/us/app/id6499560621), [two](https://apps.apple.com/us/app/my-color-analysis-ai/id6740942124).
-  We have to stand out. Our angles: the photo stays on the phone, real measurements, and an artist behind it.
+  We have to stand out. Our angles: the photo stays on the phone, real measurements, and a result that shows its working.
 
 ---
 
@@ -76,7 +76,7 @@ Source for this section: vidIQ Instagram/TikTok outlier search, run 2026-09-29, 
 - [@devika_nalwa](https://www.instagram.com/reel/DblKAJuP9jg/): "Perfect Lip Shades for Every Undertone", **527K on 2.7K**
 - [@glowy_dewy_care](https://www.instagram.com/reel/Daa4IBhPp2Z/): nail shades per skin tone, 664K on 12K
 - Pattern: one dense, save-worthy chart, a trending sound, and a "Save this" caption.
-- **For us:** this is our home format. Illustrations and swatches are what the founder already makes.
+- **For us:** this is our home format. Swatch charts are what our renderer already makes.
 
 ### 2e. Myth-busting / "is it true?"
 - [@gossipgurrr1](https://www.tiktok.com/@gossipgurrr1/video/7688482897048702221):
@@ -117,7 +117,7 @@ Source for this section: vidIQ Instagram/TikTok outlier search, run 2026-09-29, 
 | Binary choice | "Gold girl or silver girl?" | "Gold or silver? The test that works" |
 | Myth / fear | "...bc i wear black all the time" | "Is black really bad on you?" |
 | POV / realisation | "pov color seasons weren't a joke" | "pov: you learn why sage looks grey on you" |
-| Expert challenge | "is her advice opinion based?" | "A painter explains why it's not just opinion" |
+| Expert challenge | "is her advice opinion based?" | "Why it's 4 measurements, not just opinion" |
 | Mistake callout | "The biggest mistake women with olive skin make" | "The mistake Soft Autumns make with black" |
 | Save-bait guide | "UNDERTONE GUIDE" | "Soft vs True Autumn: save this" |
 
@@ -210,7 +210,7 @@ Hooks in 2a–2f are short, readable in 1 second, and usually end in a question.
 ### Lessons for us
 - Marketplace search does the heavy lifting for these sellers. We have no marketplace, so our social content has to do that job.
 - The founder's visible identity (the analyst's own TikTok and Instagram) sells the service.
-  → **The founder-as-artist should be the face or voice of the brand.**
+  → **The founder (Saman, who built the app) can be the voice of the brand. Never present him as a painter or artist.**
 - Reviews are their main trust signal. We have none. **We must never fake them** (see rules.md).
   Collect real ones from launch day.
 

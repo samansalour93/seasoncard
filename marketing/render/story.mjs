@@ -16,7 +16,7 @@ body{margin:0}.s{width:1080px;height:1920px;background:#F5EFE6;color:#211C18;fon
 <div style="display:flex;gap:22px;margin-top:80px">${["#B5705A","#C79A4E","#9FA37E","#4F7F7B","#C4867A","#6B7A8F"].map(c=>`<div style="width:120px;height:220px;border-radius:30px;background:${c}"></div>`).join("")}</div>
 <div style="margin-top:auto;display:flex;flex-direction:column;align-items:center;gap:26px">
 <div style="background:#9A4A24;color:#fff;font-weight:800;font-size:52px;padding:34px 70px;border-radius:80px">seasoncard.app</div>
-<div style="font-family:Fraunces;font-style:italic;font-size:44px">Free · 30 seconds · made by a painter</div></div>
+<div style="font-family:Fraunces;font-style:italic;font-size:44px">Free · 30 seconds · photo stays on your phone</div></div>
 </div></body></html>`;
 const br = await chromium.launch(); const p = await br.newPage({ viewport: { width: 1080, height: 1920 } });
 await p.setContent(html); await p.evaluate(async()=>{await document.fonts.load("600 40px Fraunces");await document.fonts.load("italic 40px Fraunces");await document.fonts.load("700 40px Manrope");});

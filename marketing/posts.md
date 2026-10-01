@@ -15,7 +15,7 @@ celebrity names only as text.**
   - Fonts: Fraunces (headlines), Manrope (body)
   - Swatches are rounded 20–28px cards
 - **Hook slide:** 6–9 words, huge Fraunces, 1 visual. Must read in 1 second.
-- **Illustrations:** the founder's own hand. Stylised faces or busts with **no likeness to any real person**, shown
+- **Illustrations:** rendered or commissioned (never claim the founder drew them). Stylised faces or busts with **no likeness to any real person**, shown
   across the full range of skin depths. Label "illustration" wherever a face shows two palettes.
 - **Swatch hexes below are placeholders.** Swap them for the Content agent's `seasons.json` values so posts match the app.
 - **Last slide always:** the Season Card mock + "Free scan · photo stays on your phone · link in bio".
@@ -23,12 +23,12 @@ celebrity names only as text.**
 - **Hashtags:** max 5 (both platforms cap at 5).
 - **Pinterest pin titles:** keyword first, e.g. "Soft Autumn vs True Autumn colour palette | seasonal colour analysis".
 
-**Pillars:** 🎨 Artist/colour theory · ❓ Which season is X colour for · 🚫 Myth-busting · ⚖️ Season vs season · 💡 Light & undertone
+**Pillars:** 🎨 Colour theory · ❓ Which season is X colour for · 🚫 Myth-busting · ⚖️ Season vs season · 💡 Light & undertone
 
 ---
 
 ## POST 1: "Your season is 4 measurements, not a vibe"
-**Pillar:** 🎨 Artist · **Format:** carousel, 7 slides · **Launch post**
+**Pillar:** 🎨 Colour theory · **Format:** carousel, 7 slides · **Launch post**
 
 | # | Slide text | Visual |
 |---|---|---|
@@ -37,11 +37,11 @@ celebrity names only as text.**
 | 3 | **2 · Depth.** How light or deep are your skin, hair and eyes together? | Light-to-deep value scale (7 painted steps) |
 | 4 | **3 · Contrast.** How different are they from each other? | Two illustrated heads: low contrast (hair ≈ skin) vs high (dark hair, light skin) |
 | 5 | **4 · Chroma.** Do clear, bright colours suit you, or soft, muted ones? | Same hue, bright vs greyed swatch side by side |
-| 6 | **Mix all 4 → 1 of 12 seasons.** A painter would call this "value, temperature, saturation". | 12 tiny palette chips in a 3×4 grid, labelled |
+| 6 | **Mix all 4 → 1 of 12 seasons.** Colour theory calls this "value, temperature, saturation". | 12 tiny palette chips in a 3×4 grid, labelled |
 | 7 (CTA) | **Get your 4 numbers free.** Your photo never leaves your phone. | Season Card mock showing 4 measurement bars |
 
 **Caption:**
-I'm a painter. When I mix a portrait, I don't think "autumn". I think temperature, value, contrast and saturation.
+Colour analysis isn't about "autumn" as a vibe. I think temperature, value, contrast and saturation.
 Seasonal colour analysis is the same four questions. Season Card measures all four from a selfie, right in your browser. 🎨
 Which one do you think is your strongest trait? 👇
 
@@ -88,19 +88,19 @@ If your colouring is softer, a near-black often does the same job with less shad
 
 **Caption:**
 Soft and True Autumn wear the same "family" of colours: rust, olive, camel, teal. True Autumn wears them rich. Soft Autumn wears them as if a little grey was mixed in.
-(Painter tip: that "grey mixed in" is literally how I'd mix a Soft Autumn palette.) Save for shopping 🍂
+Save for shopping 🍂
 
 **Hashtags:** `#softautumn #trueautumn #coloranalysis #autumnpalette #colorseason`
 **CTA:** "Save this. Free scan in bio to see your chroma score."
 
 ---
 
-## POST 4 (VIDEO): "A painter shows you what 'soft' means"
-**Pillar:** 🎨 Artist · **Format:** 25–35s video, hands + palette, voiceover (face optional)
+## POST 4 (VIDEO): "What 'soft' colour actually means, shown with paint"
+**Pillar:** 🎨 Colour theory · **Format:** 25–35s video, hands + palette, voiceover (face optional)
 
 | Time | Shot | On-screen text | Voiceover |
 |---|---|---|---|
-| 0–2s | Close-up: squeeze of bright cadmium-orange paint on a palette | **"Soft" colours, explained by a painter** | "Everyone says 'you're a soft season'. Here's what that actually means." |
+| 0–2s | Close-up: squeeze of bright cadmium-orange paint on a palette | **"Soft" colours, explained with paint** | "Everyone says 'you're a soft season'. Here's what that actually means." |
 | 2–8s | Brush pulls a stripe of pure orange onto paper | **Clear / bright** | "This is a clear colour. Pure pigment, nothing mixed in." |
 | 8–16s | Add a touch of grey (or its complement, blue) and mix; paint a second stripe | **+ a little grey = soft** | "Add a little grey, or a touch of its opposite, and it softens. Same hue, lower chroma." |
 | 16–22s | Repeat quickly with green and pink; 3 pairs side by side | **Bright vs soft** | "Soft seasons glow in the second column. Bright seasons need the first." |
@@ -173,7 +173,7 @@ Soft and True Autumn wear the same "family" of colours: rust, olive, camel, teal
 ---
 
 ## POST 8: "Guess the season from the palette"
-**Pillar:** 🎨 Artist / interactive · **Format:** carousel, 7 slides
+**Pillar:** 🎨 Colour theory / interactive · **Format:** carousel, 7 slides
 
 | # | Slide text | Visual |
 |---|---|---|
@@ -213,7 +213,7 @@ Soft and True Autumn wear the same "family" of colours: rust, olive, camel, teal
 ---
 
 ## POST 10 (VIDEO): "Painting all 12 seasons from one palette"
-**Pillar:** 🎨 Artist · **Format:** 30–45s timelapse, overhead camera, voiceover or text only
+**Pillar:** 🎨 Colour theory · **Format:** 30–45s timelapse, overhead camera, voiceover or text only
 
 | Time | Shot | On-screen text | Voiceover (optional) |
 |---|---|---|---|
@@ -224,7 +224,7 @@ Soft and True Autumn wear the same "family" of colours: rust, olive, camel, teal
 | 26–34s | Winters (add blue + black or pure white, no grey) | **Winters = cool + high contrast** | "Winters: cool, and either very deep or very clear." |
 | 34–42s | Finished sheet, slow push-in. Then the Season Card on phone | **Which circle is you? → free scan** | "Which circle is you? The free scan's in my bio." |
 
-**Caption:** The whole 12-season system is really just three dials a painter turns every day: warm/cool, light/deep, clear/soft. Here are all 12 on one sheet. 🎨 Which circle is you?
+**Caption:** The whole 12-season system is really just three dials colour theory uses: warm/cool, light/deep, clear/soft. Here are all 12 on one sheet. 🎨 Which circle is you?
 **Hashtags:** `#colortheory #coloranalysis #artistsoftiktok #painting #colorseason`
 **CTA:** "Comment your circle number. Free scan in bio."
 

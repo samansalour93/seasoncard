@@ -6,7 +6,7 @@ export default (S) => {
     {
       n: 1,
       caption:
-        "I'm a painter. When I mix a portrait, I don't think \"autumn\". I think temperature, value, contrast and saturation.\nSeasonal colour analysis is the same four questions. Season Card measures all four from a selfie, right in your browser. 🎨\nWhich one do you think is your strongest trait? 👇\n\nFree scan at seasoncard.app Save this to explain seasons to a friend.",
+        "Your colour season isn't a vibe. It's temperature, value, contrast and saturation.\nSeasonal colour analysis is those four questions. Season Card measures all four from a selfie, right in your browser. 🎨\nWhich one do you think is your strongest trait? 👇\n\nFree scan at seasoncard.app Save this to explain seasons to a friend.",
       tags: "#coloranalysis #colouranalysis #seasonalcoloranalysis #colortheory #colorseason",
       slides: [
         { hook: true, title: "Your colour season isn't a vibe. It's 4 measurements.", v: { t: "numbered" } },
@@ -14,7 +14,7 @@ export default (S) => {
         { kicker: "2 · Depth", title: "How light or deep are your skin, hair and eyes together?", v: { t: "value" } },
         { kicker: "3 · Contrast", title: "How different are they from each other?", v: { t: "heads" } },
         { kicker: "4 · Chroma", title: "Do clear, bright colours suit you, or soft, muted ones?", v: { t: "chroma" } },
-        { kicker: "Mix all 4", title: "…and you land in 1 of 12 seasons.", body: "A painter calls it value, temperature and saturation.", v: { t: "grid12" } },
+        { kicker: "Mix all 4", title: "…and you land in 1 of 12 seasons.", body: "Colour theory calls it value, temperature and saturation.", v: { t: "grid12" } },
         cta("Get your 4 numbers free."),
       ],
     },
@@ -37,7 +37,7 @@ export default (S) => {
     {
       n: 3,
       caption:
-        "Soft and True Autumn wear the same family of colours: rust, olive, camel, teal. True Autumn wears them rich. Soft Autumn wears them as if a little grey was mixed in.\n(Painter tip: that \"grey mixed in\" is literally how I'd mix a Soft Autumn palette.) Save for shopping 🍂\n\nSave this. Free scan at seasoncard.app to see your chroma score.",
+        "Soft and True Autumn wear the same family of colours: rust, olive, camel, teal. True Autumn wears them rich. Soft Autumn wears them as if a little grey was mixed in. Save for shopping 🍂\n\nSave this. Free scan at seasoncard.app to see your chroma score.",
       tags: "#softautumn #trueautumn #coloranalysis #autumnpalette #colorseason",
       slides: [
         { hook: true, title: "Soft Autumn or True Autumn? The one difference.", v: { t: "fans", a: "soft-autumn", b: "true-autumn" } },

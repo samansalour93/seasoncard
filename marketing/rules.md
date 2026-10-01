@@ -42,6 +42,8 @@ These rules apply to the founder, any helper and any AI agent. No exceptions for
 
 - No user counts, "thousands love it", or "#1" claims unless they're real and we can prove them.
 - No medical, skin-health or "anti-ageing" claims.
+- **Never claim the founder is a painter, artist or colour analyst.** Saman built the app; he is not a painter.
+  No "I'm a painter", "made by a painter", "painter tip" or "artist-made", in captions, slides, DMs or bios.
 - Celebrity names only as text references ("often typed as"). Never their photos. Never implied endorsement.
 
 ### 6. No real people's photos
